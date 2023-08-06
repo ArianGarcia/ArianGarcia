@@ -36,11 +36,15 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript">
       </td>
       <td width="25%" align="center">
-        <b>React</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
+        <b>Angular</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular">
       </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <b>React</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
+      </td>
       <td width="25%" align="center">
         <b>Next.js</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg" alt="Next.js">
@@ -53,12 +57,12 @@
         <b>Git</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <b>VS Code</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <b>Bootstrap</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap">
@@ -71,12 +75,12 @@
         <b>Tailwind Css</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCss">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <b>Material-UI</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material-UI">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <b>Docker</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker">
@@ -89,6 +93,8 @@
         <b>Figma</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma">
       </td>
+    </tr>
+    <tr>
       <td width="25%" align="center">
         <b>Netlify</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" alt="Netlify">
